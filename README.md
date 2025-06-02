@@ -12,10 +12,6 @@ I'm a Junior Penetration Tester with a growing skill set across web, API, and mo
 
 Currently studying Information Security at Czech Technical University in Prague
 
-## 💡 Also into:
-
-Hardware & IoT hacking, writing clean scripts
-
 ## 🧘 Outside tech:
 
 Sports, reading, writing
