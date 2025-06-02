@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey, I'm Sagadat 👋
 
-<!--
-**sagaseit/sagaseit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Penetration Tester and a growing skill set across web, API, and mobile testing. I enjoy digging into systems, reverse engineering binaries, and building tools in Python and C++.
 
-Here are some ideas to get you started:
+🛠️ What I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web & API pentesting (Burp, OWASP, recon tools)
+- Reverse engineering and binary analysis
+- Scripting and tooling in Python & C++
+
+🎓 Education:
+
+Currently studying Information Security
+📍 Czech Technical University in Prague
+
+💡 Also into:
+
+Hardware & IoT hacking, writing clean scripts
+
+🧘 Outside tech:
+
+Sports, reading, writing
+
+🌐 Connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/sagadat-seitzhan/)
+- [Telegram](https://t.me/kokpenbek)
