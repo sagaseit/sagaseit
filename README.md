@@ -1,6 +1,6 @@
 # Hey, I'm Sagadat 👋
 
-I'm a Junior Penetration Tester and a growing skill set across web, API, and mobile testing. I enjoy digging into systems, reverse engineering binaries, and building tools in Python and C++.
+I'm a Junior Penetration Tester with a growing skill set across web, API, and mobile testing. I enjoy digging into systems, reverse engineering binaries, and building tools in Python and C++.
 
 ## 🛠️ What I work with:
 
