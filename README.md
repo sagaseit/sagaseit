@@ -10,8 +10,7 @@ I'm a Junior Penetration Tester and a growing skill set across web, API, and mob
 
 ## 🎓 Education:
 
-Currently studying Information Security
-📍 Czech Technical University in Prague
+Currently studying Information Security at Czech Technical University in Prague
 
 ## 💡 Also into:
 
