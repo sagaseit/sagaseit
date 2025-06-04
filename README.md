@@ -8,14 +8,6 @@ I'm a Junior Penetration Tester with a growing skill set across web, API, and mo
 - Reverse engineering and binary analysis
 - Scripting and tooling in Python & C++
 
-## 🎓 Education:
-
-Currently studying Information Security at Czech Technical University in Prague
-
-## 🧘 Outside tech:
-
-Sports, reading, writing
-
 🌐 Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/sagadat-seitzhan/)
